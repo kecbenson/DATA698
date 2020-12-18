@@ -1,2 +1,3 @@
 # DATA698
- 698 project repo
+ 
+To view the project report, please click the blue "Open in Colab" link.
